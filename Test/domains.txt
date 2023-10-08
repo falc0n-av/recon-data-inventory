@@ -1,3 +1,2 @@
-test.com
-test.org
-test.in
+trimble.com
+trimble.in
