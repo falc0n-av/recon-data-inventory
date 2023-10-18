@@ -1,0 +1,24 @@
+{
+    "description": "Innogames.com - play online browser and mobile games for free! Choose between exciting strategy games, RPGs, and simulations. Start playing your favourite games now!",
+    "industry": [
+        "computer games",
+        "information technology & services"
+    ],
+    "subsidiaries": {},
+    "subsidiaries_domains": [],
+    "technologies_used": {
+        "AI": "Other",
+        "Apache": "Load Balancers",
+        "Fastly CDN": "Content Delivery Networks",
+        "Google Analytics": "Analytics and Tracking",
+        "Google Font API": "Fonts",
+        "Microsoft Office 365": "Other",
+        "Mobile Friendly": "Other",
+        "Multilingual": "Widgets",
+        "Nginx": "Load Balancers",
+        "Outlook": "Email Providers",
+        "Rackspace MailGun": "Email Delivery",
+        "Varnish": "Load Balancers",
+        "reCAPTCHA": "Captcha"
+    }
+}
